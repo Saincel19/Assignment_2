@@ -1,0 +1,328 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.items{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+/* PICTURE 1 */
+.items .item1{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item1 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item1 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item1 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 2 */
+.items .item2{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item2 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item2 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item2 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 3 */
+.items .item3{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item3 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item3 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item3 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 4 */
+.items .item4{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item4 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item4 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item4 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 5 */
+.items .item5{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item5 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item5 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item5 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 6 */
+.items .item6{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item6 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item6 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item6 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 7 */
+.items .item7{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item7 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item7 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item7 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 8 */
+.items .item8{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item8 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item8 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item8 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 9 */
+.items .item9{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item9 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item9 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item9 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 10 */
+.items .item10{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item10 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item10 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item10 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 11 */
+.items .item11{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item11 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item11 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item11 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+/* PICTURE 12*/
+.items .item12{
+    height: auto;
+    width: 29%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.items .item12 h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.items .item12 p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.items .item12 button{
+    padding: 16px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
